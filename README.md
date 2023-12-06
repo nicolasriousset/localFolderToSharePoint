@@ -1,6 +1,6 @@
 # localFolderToSharePoint
 
-A set of PowerShell Scripts, relying on Pnp Powershell modules, to automate creation of SharePoint Teams Site, and upload of files to this site documents library from a local folder.
+A set of PowerShell Scripts, relying on Pnp Powershell modules, to automate creation of a SharePoint Teams Site, and upload of files to this site document library from a local folder.
 
 # Requirements
 PowerShell 7 mmust be installed : https://lazyadmin.nl/powershell/update-powershell/
