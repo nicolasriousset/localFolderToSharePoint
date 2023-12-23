@@ -1,0 +1,351 @@
+.SynologyWorkingDirectory
+_
+_1 - NEWNAS
+_En attente
+_ModŠle ctx
+_ModŠle Restru SCA et Dutreil
+_Organisation
+_Scan
+00. Tableaux de suivi
+01. AVIGNAUD_Transmission GFA
+02. NOU_Reorganisation
+03. FLA_Restructuration site
+04. OMNIFONCIERE_Litige (archiv‚)
+05. ACLA_JEX conservatoire_avant TC (143)
+06. ACLA_Litige fonds TC Auch (143)
+07. PIRIS_Struc_Normd
+09. FRI_Restructuration
+10. FLA_AFUL edd (ctx)
+100. FLA_120_SDC Parking P2_AGONDEH PALI (HypothŠque)
+100.2 FLA_120_SDC Parking P2_AGONDEH PALI (Recouvrement)
+101. FRIZET - MAN - RESTRUCTURATION
+107. FLA_AFUL_R‚f‚r‚ pr‚ventif Navarre (124)
+108. FLA_115_SDC Scission (124)
+111. FLA SDC 115 c. BEIT ABRAH (Recouvrement 2de partie)
+112. AFUL D‚claration cr‚ance 695Ke GUYENNE
+113. FLA_AF_NAV_Vente @ SCI BRUJ06 (Bannon) (124)
+115. FLA AFUL mise … jour statuts
+116_FLA_AFUL VS SDC (tous)
+117. FLA_116_SDC DES SOUKS_SCI BS_(Recouvrement 2)
+118. FLA_110_RESIDENCE DE FCE_BARAI (HypothŠque)
+118. FLA_110_RESIDENCE DE FCE_BARAI (Recouvrement)
+12. FLA_104_SDC LANGUEDOC_ZONZOLO_ Recouvrements (145)
+123. FLA_Cession Place Navarre (124)
+124. FLA_Prog Place Navarre
+125. NIC_JEX Auch_Nantissement (143)
+126. FLA_Gestion dataroom
+127_ProgNav_OperExpertise
+13. FLA_AFUL BGGLP
+130_FRI SCEA_AGOA 2022
+131_FRI ET FILLE SAS_AGOA 2022
+134. FLA AFUL_MEDIT (179)
+135. NIC_ACLA  Andr‚_Appel (143)
+138. MCM_Vente
+139. MCM_Litige
+14. FLA_111_SDC RES NAVARRE_ER2EL_HypothŠque
+141. Nic. MAIS_Bouv- Int‚gration
+142. FLA_104_SDC LANGUEDOC_ZONZOLO_JEX (145)
+143. NIC_ACLA c. Andre
+145. FLA_104_SDC LANGUEDOC_ZONZOLO
+146. FLA_SDC 115_D‚signation huissier AG 16 dec 2022 (124)
+147. FLA_AFUL_D‚signation huissier AG 16 d‚c 2022 (124)
+148. FLA_AFUL_Art et Flanades (pi) (124)
+150. PIR_Gpe SN ERCT_Suivi juridique et fiscal
+151. PIR_Gpe VALP_Suivi juridique et fiscal
+152. FLA_AFUL SDC GASCOGNE
+154. FLA_Convention co-maŒtrise d'ouvrage Programme NAVARRE (124)
+155. POY_RCP Reynaud
+156. FLA_AFUL_120_Parking P2_TEMIME_HypothŠque
+158. FLA_AFUL_BGGLP (hypothŠque)
+159. RAZAALI VASRAM SABIRA  VASRAM NAZIR
+160. PIRIS_SCALI
+163. FLA_104_SDC LANGUEDOC_ZONZOLO_HypothŠque
+164. FLA_116_LES SOUKS_SCI BS_HypothŠque (2Šme inscription)
+165. GP NVX_DIRECTION JURIDIQUE JARDIN DES PAPES_2023
+166. PIR_SCALI aug Kal nature
+167. SEG_SDC 5-21 Exec Forc‚e CCB x UNIX
+168. FLA_AF_NAV_Ventes @ CIP (124)
+168.bis FLA_AF_NAV_Acquisition AFUL auprŠs de CIP (124)
+169. FLA_AF_NAV_Ventes @ Sarcelles (124)
+170. FLA_AF_Prog Station service
+170. FLA_AF_Prog Station service (CA)
+171. FLA_AF_SSERV_PC et descriptif projet (170)
+172. FLA_AF_SSERV_R‚f‚r‚ pr‚ventif (170)
+173. FLA_AF_SSERV_REQ_Com de Justice (avec R‚f‚r‚) (170)
+174. FLA_AF_SSERV_Art et droit moral (170)
+175. FLA_AF_SSERV_Convention co-maŒtrise ouvrage Prog Station service (170)
+176. FLA_AF_SSERV_Corporate AFUL (170)
+177. FLA_AF_SSERV_AFUL_D‚signation huissier AG (170)
+178. FLA_AF_SSERV_Vente CIP CA (170)
+179. FLA_AF_MED_Prog M‚diterran‚e
+18. FLA_111_SDC RES NAVARRE_ER2EL_Saisie
+180. FLA_AF_MED_PC et descriptif projet (179)
+181. FLA_AF_MED_R‚f‚r‚ pr‚ventif (179)
+182. FLA_AF_MED_REQ_Com de Justice (avec R‚f‚r‚) (179)
+183. FLA_AF_MED_Art et droit moral (179)
+184. FLA_AF_MED_Convention co-maŒtrise ouvrage Prog Mediterran‚e (179)
+185. FLA_AF_MED_vente SCI ZOO FLA (179)
+186. FLA_AF_MED_Corporate AFUL (179)
+187. FLA_AF_MED_AFUL_D‚signation huissier AG (179)
+188. FLA_AF_MED_115_SDC Scission (179)
+189. FLA_AF_MED_115_D‚signation huissier AG (179)
+190. FLA_AF_MED_Vente Aful @ Sarcelles (179)
+191. FLA_AF_Prog Marseille
+192. FLA_AF_MAR_PC et descriptif projet (191)
+193. FLA_AF_MAR_R‚f‚r‚ pr‚ventif (191)
+194. FLA_AF_MAR_REQ_Com de Justice (avec R‚f‚r‚) (191)
+195. FLA_AF_MAR_Art et droit moral (191)
+196. FLA_AF_MAR_Convention co-maŒtrise ouvrage Prog Mediterran‚e (191)
+197. FLA_AF_MAR_Filialisation SDC 116 (191)
+198. FLA_AF_MAR_Corporate AFUL (191)
+199. FLA_AF_MAR_AFUL_D‚signation huissier AG (191)
+200. FLA_AF_MAR_115_SDC Scission (191)
+201. FLA_AF_MAR_115_D‚signation huissier AG (191)
+202. FLA_AF_MAR_Ventes @ Sarcelles (191)
+203. FLA_AF_MED_Ventes AFUL @ CIP (179)
+204. FLA_AF_MED_Vente CIP @ Sarcelles (179)
+205. SEG_SDC 5-21 POINC_Recouvrement charges 2T 2021 (167)
+206. SEG_SDC 5-21 POINC_Recouvrement charges 4 T 2019 (167)
+207. SEG_SDC 5-21 POINC_Liquidation astreinte CCB x UNIX_PRÒT A USAGE (167)
+208_SEG_SDC 5-21 POINC_Branchement chauffage_Annulation AG 14 juin 2022
+209_SEG_SDC 5-21 POINC_Annulation AG 29 avril 2014 (167)
+210. SEG_SDC 5-21 POINC_Loggia et raccordement (167)
+210. SEG_SDC 5-21 POINC_Loggia et raccordement_145 Expertise in futurum
+211. SEG_SDC 5-21 POINC_R‚f‚r‚ 24 janvier 2020_Mainlev‚e opposition (167)
+212. SEG_SDC 5-21 POINC_Arrˆt CA 11.03.2013 (pour Ex‚cution forc‚e remb saisie) (167)
+213. SEG_SDC 5-21_Sommation interpellative SCI UNIX et CCB 8 f‚vrier 2023 (167)
+214. SEG_SDC 5-21 POINC_Mesures Ex‚cution Locataire CCB (167)
+215_PAP_Litige associ‚
+215_PAP_Litige associ‚s
+216_PAP_R‚gularisation St‚s
+218. SEG_SDC 5-21_Demande d'expertise 20.04.16
+218. SEG_SDC 5-21_Demande d'expertise 20.04.16 (167)
+219. SEG_SDC 5-21_Saisie immobiliŠre UNIX (reprise proc‚dure MILLEIS BANQUE) (167)
+220. SEG_SDC 5-21_Saisie immobiliŠre CCB (167)
+221. PAP_filialisation
+222. FLA_120_SDC Parking P2_Maurice TEMIME (Rec post sommation)
+223_MCS_AGOA exo 2022
+224. FLA_116_SDC DES SOUKS_SCI BS_(Recouvrement 3)
+225. FLA_AFUL_CIP_Prog Navarre_waiver hypothŠque (273.124)
+226. NVX_C2_ctx option regime fiscal
+23. OMLI_Modification de l'objet social
+230. SEG_SDC 5-21_Requˆte JEX contre associ‚s UNIX CCB (167)
+24. POY_Eviction (155)
+25. TERR_CROUILLEBOIS
+252.FRI_TRIBOULET
+253.FRI_Acquisition_Rural
+254.NOU_COING II _ Consequences r‚gime d'imposition (226)
+255. NIC_Marque Arnaud Nicolas_Renouvellement
+256. FLA_115_ BEITH ABR_Saisie
+257. NIC_ACLA_TC Paris SMO c CA comp‚tence (143)
+259. PAP_AGOA exo 2022_D‚signation CJ
+26. TER_BOB2 liquidation
+260_FLA_AF_SDC PK1 (179)
+262. FLA_AF_MED_SDC PK P1_D‚signation huissier AG (entit‚ 121) (179)
+263. FLA_104_SDC LANGUEDOC_BOUDAOUD (recouv post jugt)
+264. FLA_111_SDC RES NAVARRE_ER2EL (post jgt)
+265. MOR_Droit des soci‚t‚s
+266. FLA_111_SDC NAVARRE_ABDUL_SIKANDAR (recouv post jgt)
+267. NOU_Emprunt_LM
+268. FLA_104_SDC LANGUEDOC_PIERRE-LOUIS NadŠge
+269. FLA_104_SDC LANGUEDOC_DEMIREL Erdinc
+27. DAHER_Monaco
+270. FLA_115_Beith Abr_Ctx r‚partition
+271. SEG_SDC 5-21 POINC_CCB_Recouvrement post jgts
+272. SEG_SDC 5-21 POINC_UNIX_Recouvrement post jgts
+273. FLA_AFUL_CIP_waiver hypothŠque
+274. FLA_AFUL_CIP_Prog Mediterran‚e_waiver hypothŠque (273.179)
+275. FLA_AFUL_CIP_Prog StatServ CAgricole_waiver hypothŠque (273.170)
+276. NIC_MAISON BOUVIER_AGOA 2023
+277. NIC_ACLA_AGOA 2023
+278. NIC_SMO_AGOA 2023
+279. NIC_SMT_AGOA 2023
+28. DAHER_Suivi Fiscal
+280. SEG_SDC 5-21 POINC_CCB_HypothŠque
+281. SEG_SDC 5-21 POINC_UNIX_HypothŠque
+282. FLA_104_SDC LANGUEDOC_PIERRE-LOUIS NadŠge_Hyp
+283. FLA_104_SDC LANGUEDOC_DEMIREL Erdinc_hyp
+284. NIC_MAISON BOUVIER_Transfo
+285_PAP_Agoa exo 2022
+286_Litige M. BENIDER c Consorts BORIE
+287. FRI_FIFRA Linda
+288. FLA_111_SDC RES NAVARRE_DEZULMA_Recouvrement
+289. SEG_SDC 5-21 POINC_UNIX_Vente 272 et 273 (167)
+29. W_JDah_Acq av Wagram
+290. SEG_SDC EV4_SCI BO IM
+291. SEG_SDC EV4_ALOUI
+292. SEG_SDC EV4_ENI
+293. SEG_SDC EV4_KOUV I
+294. SEG_SDC EV4_KOUV II
+295. SEG_SDC EV4_KOUV III
+296. SEG_SDC EV4_SCI RIV
+297. SEG_SDC EV4_SCI ROSA
+298. SEG_SDC EV4_SCI SEVIM
+299. SEG_SDC EV4_SCI SCS
+30. NOU_LEP_Ctlr Fal
+300. AVIG_EARL LES DOUNINES_AGOA 2023
+301. AVIG_SCEA LES DOUNINES_AGOA 2023
+302. AVIG_GFA LES DOUNINES_AGOA 2023
+303. SEG_SDC EV4_G‚n‚ral
+304. SEG_SDC EV4_BOUKHOBZA
+305. SEG_SDC EV4_KRIEF
+306. SEG_SDC EV4_MORIN
+307. SEG_SDC EV4_DA SILVA
+308. AR_AG PACA_Vte PRO AZUR
+309. FLA_107_SDC BPF_G‚n‚ral
+310. FLA_107_SDC BPF_ CHAMAK_Recouvrement
+311. FLA_107_SDC BPF_ABCD PAT_Recouvrement
+312. SEG_SDC EV4_GECO
+313. NOU_Reorg_Patrimoine a transmettre (02)
+314. NOU_Reorg_Structuration (02)
+315. NOU_Reorg_Corporate JDP (02)
+316. NOU_Reorg_Holding CNVX_constitution (02)
+317. NOU_Reorg_Holding JNVX_constitution (02)
+318. NOU_Reorg_Holding MNVX_constitution (02)
+319. NOU_Reorg_Holding ENVX_constitution (02)
+320. NOU_Reorg_Corporate FDP (02)
+321. NOU_Reorg_Pactes (Dutreil et autres) (02)
+322. NOU_Reorg_Donations  (02)
+323. NOU_Reorg_Holding CNVX_apport titres post donation (02)
+324. NOU_Reorg_Holding JNVX_apport titres post donation (02)
+325. NOU_Reorg_Holding MNVX_apport titres post donation (02)
+326. NOU_Reorg_Holding ENVX_apport titres post donation (02)
+327. NOU_Reorg_LM_Exploitation perenit‚ et controle structure (02)
+328. BEM_Constitution_Groupe
+329. PIR_Div_Expertise
+44. DAHER_IFI
+45. SOUB - Degroof P
+46. EURL MARINE
+50. AVIGNAUD_AGOA EARL DOUNINES_exo 2021
+52. AVIGNAUD_AGOA GFA LES DOUNINES_exo 2021
+53. AFUL_Contentieux SDC g‚n‚ral cf 56. dossier recouvrement)
+54. LA MARINADE_Changement de g‚rance-Renouvellement bail
+55. JDP_Direction Juridique (2022)
+56. AFUL_G‚n‚ral
+62. ADV_SCI DE L'HORLOGE
+64. PIR_Groupe ERNCT_Accord‚on
+65. PIRIS_Groupe ERNCT_Pacte
+66. PIR_ALP AGOA  exo 2021
+71. PIRIS_ANEA_Lev‚e de fonds (gouvernance et ADP)
+72. FLA_111_SDC NAVARRE_POLAT ERCAN (Recouvrement)
+74. SDC NAVARRE_POLAT (HypothŠque) cf dossier 73
+75. FLA_104_SDC LANGUEDOC_BOUDAOUD (recouvrement)
+75.2 FLA_104_SDC LANGUEDOC_BOUDAOUD (HypothŠque)
+76. FLA_111_SDC NAVARRE_ABDUL_SIKANDAR_Recouvrement
+76.1 FLA_111_SDC NAVARRE_ABDUL_SIKANDAR_HypothŠque
+77. FLA_110_RESIDENCE DE FCE_HASSAN (Recouvrement)
+78. FLA_110_RESIDENCE DE FCE_HASSAN (HypothŠque)
+81. PIR_AYA_Structuration participation
+82. PIR_VALP_Reclass Partic
+83. PIR_ANEA_Gouvernance
+84. FLA_111_SDC RES NAVARRE_ER2EL (Recouvrement)
+85. FLA_AFUL_116_SCI BS_HYPOTHEQUE
+86. FLA-AFUL_SDC DES SOUKS_SCI BS (ex‚cution forc‚e)
+87. FLA_115_SDC ENSEMBLE COMMERCIAL 115_ELGE_CA Versailles
+90. SMO_Lev‚e de fonds
+91. PIR_SN ERCT_Gouvernance
+99. Recrutement Stagiaires
+99. Site internet FIELOUX
+ADV_Projet Suisse
+AG Copro 115
+AND_Pr‚sentation
+APPOLO
+Attente
+AVIGNAUD_Attestation Dutreil
+AVIGnaud_Attestation Dutreil_FIELOUX-PC_janv.-22-103658-2021_CaseConflict
+AVIGNAUD_Attestation Dutreil_FIELOUX-PC_janv_DESKTOP-PIP3FOM_oct.-20-163428-2021_CaseConflict.-22-103658-2021_CaseConflict
+AVIGNAUD_SCEA DOUNINES
+CARV_STRUCT
+CloudStation_SEEDI
+Codes
+D‚veloppement
+Docs scann‚s
+DVA_Sortie LR
+EFL 2021
+En attente
+Essai bis
+FIN_GAR_AGOA_Comptes 2020
+FLA_102_SDC GUYENNE (ancien)
+FLA_110_RESIDENCE DE FCE_BARAI (Recouvrement)
+FLA_110_RESIDENCE DE FCE_GUELLIM_HypothŠque
+FLA_115_SDC ENSEMBLE COMMERCIAL 115_LOFT PIZZA
+FLA_116_LES SOUKS_SCI BS
+FLA_HypothŠques
+France Invest
+FRI_AGOA 2022
+FRI_MANON
+FRI_SC entrepot
+FRI_SCEA filiale
+FRI_VIA Nat Refinancement
+HUL_Reorgan Patrimoniale2
+Information client
+INT_Cleor(5030010)
+INT_Sinequanone (518002)
+Intel
+JARV_Ctx
+LA
+LBO
+LegalTech
+Manewco
+MIN_LEV
+MIN_Saisie du bƒtonnier
+MOC-Ctx SCI 92 CLOS
+MOC-Saisine du bƒtonnier
+MODELES
+NIC-O_ACL loyers
+NIC-O_AGOA (doublon)
+NIC-O_AGOA_
+NIC-O_Annulation loyer
+NIC-O_Aug de k du 12 d‚cembre 2019
+NIC-O_DIR JUR
+NIC-O_Garantie ACLA
+NIC-O-AGOA 2020
+NIC-O-AGOA 2021
+NOU_AGOA 2022 (Cf dossiers 31 … 43 et 114)
+NOU_BAIL
+NOU_COING II fiscal
+NOU_Execution 200Ke
+NOU_FDP Caution
+NOU_Gp_Dir Jur
+NOU_Gpe JDP Social
+NOU_L16 LPF
+NOU_LE PIERRE_DIR JUR
+NOU_Les Confi_immatriculation
+NOU_Transfert siŠge Pierre Lux to Fce
+NOU_Transferts de siŠges
+NOU-DIV_liquidation r‚gime mat
+NOU-JDP_Jardin Solaire
+NOU-LOU MISTROU c TORT
+NOU-MAR_vente
+NOUR
+Nouveau dossier (2)
+OMLI_Augmentation de capital et comptes 2020
+OMNI_Ctx associ‚s
+Orange
+PFIE ARYCK
+PIR_ALP H (accordeon)
+PIR_ALP H (mutation capital)
+PIR_Eval SN ER
+PPRI
+REFORME DES CONTRATS
+RGPD
+SAS PHI
+SEM_IP_Barquette
+Sinequanone (518002)
+TCP - BIG SUCCESS
+Template
+TER_ASM_OMLI
+TER_BAY
+TER_EVE ARCHI
+TER_G‚n‚ral
+TER-Promethee
+TERR-LBO
+TER-SARC_Copropri‚t‚s
+TER-SARC_recouv chges copro
+Test mezz
+Variable
+VEY_Projet immo commercial 2
+W_Ship Vessels
+XXXTEST
+Z
+zLawyer
